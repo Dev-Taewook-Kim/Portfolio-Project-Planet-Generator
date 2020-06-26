@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a5e9e462f4a336489b19e7f3bd4842d, type: 3}
+  m_Name: Setting Noise Terrain 01
+  m_EditorClassIdentifier: 
+  scale: 25
+  octaves: 4
+  persistance: 0.51566774
+  lacunarity: 2.9000583
+  seed: -2035658977
+  offset: {x: 0, y: 0}
